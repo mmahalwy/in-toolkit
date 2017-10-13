@@ -1,7 +1,7 @@
 {
   "name": "in-toolkit",
   "version": "1.0.0",
-  "description": "Determine if somethings are defined",
+  "description": "Are you in a window or iframe? Let's find out",
   "main": "index.js",
   "scripts": {
     "test": "jest",
@@ -17,9 +17,7 @@
     "url": "https://github.com/mmahalwy/in-toolkit/issues"
   },
   "homepage": "https://github.com/mmahalwy/in-toolkit#readme",
-  "dependencies": {
-    "global": "^4.3.2"
-  },
+  "dependencies": {},
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-jest": "^21.2.0",
